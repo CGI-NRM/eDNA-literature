@@ -1,0 +1,37 @@
+* Literature and why it is interesting
+- Thomsen, P.F., Møller, P.R., Sigsgaard, E.E., Knudsen, S.W.,
+  Jørgensen, O.A. and Willerslev, E., 2016. Environmental DNA from
+  seawater samples correlate with trawl catches of subarctic, deepwater
+  fishes. PloS one, 11(11), p.e0165252
+  [[http://journals.plos.org/plosone/article?id%3D10.1371/journal.pone.0165252][PloS one]]
+
+  This paper shows a strong agreement between species composition found
+  by trawling and eDNA sequencing. They use 12sRNA and despite using a
+  blocking primer to prevent human DNA the most common contaminants seen
+  were still human.
+
+- Rees, H. C., Maddison, B. C., Middleditch, D. J., Patmore, J. R., &
+  Gough, K. C. (2014). The detection of aquatic animal species using
+  environmental DNA–a review of eDNA as a survey tool in
+  ecology. Journal of Applied Ecology, 51(5), 1450-1459
+  [[https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.12306][Journal of Applied Ecology]]
+
+  Among things they discuss the sampling strategy and emphasis that
+  taking at least three samples from a water body increases the chance
+  of detecting species in the water. Most studies uses between 3-10
+  PCR replicates when using q-PCR. Using both positive and negative
+  controls is essential for correct conclusions.
+
+  They highlight some differences in cost for detecting invasive species
+  
+  "In terms of sampling effort, eDNA analysis can have
+   considerable time and cost beneﬁts over traditional survey
+   methods, especially when looking at the distribution of
+   rare or threatened species. In a study of invasive Asian
+   carp in Chicago, Illinois, it took 93 days of person effort
+   to detect one silver carp by electroﬁshing at a site,
+   whereas eDNA analysis required only 0.174 days person
+   effort to achieve a positive detection (Jerde et al. 2011)"
+   
+  In spite of high cost for sequences there are hence money to save by
+  using clever sampling strategies and DNA sequencing.
