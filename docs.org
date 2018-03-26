@@ -34,4 +34,5 @@
    effort to achieve a positive detection (Jerde et al. 2011)"
    
   In spite of high cost for sequences there are hence money to save by
-  using clever sampling strategies and DNA sequencing.
+  using clever sampling strategies and DNA sequencing, compared to
+  more traditional monitoring approaches.
