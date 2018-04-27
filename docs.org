@@ -39,8 +39,10 @@
 
 - Shaw, J. L., Clarke, L. J., Wedderburn, S. D., Barnes, T. C., Weyrich, L. S., & Cooper, A. (2016). Comparison of
   environmental DNA metabarcoding and conventional fish survey methods in a river system. Biological Conservation, 197, 
-  131-138.
+  131-138
+  [[https://www.sciencedirect.com/science/article/pii/S000632071630088X][Biological Conservation]]
+  
   The effect of taking multiple samples from both water and sediment is discussed.
   One of the main conclusion is that the water samples correlates better with netting compared to sediments. In addition
   the detection of DNA from the less common species is more effecient at sample size 5 compared to only 2 samples.
-  [[https://www.sciencedirect.com/science/article/pii/S000632071630088X][Biological Conservation]]
+  
