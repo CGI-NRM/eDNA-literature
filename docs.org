@@ -1,6 +1,25 @@
 * eDNA literature
+- Pawlowski, J., Kelly-Quinn, M., Altermatt/ F., Apotheloz-Perret-Gentil, L., Beja P. et al. (2018)
+  The future of biotic indices in the ecogenomic era: Integrating (e)DNA metabarcoding in biological 
+  assessment of aquatic ecosystems. Science of the Total Environment, 637-638, 1295-1310.
+  [[https://www.sciencedirect.com/science/article/pii/S0048969718316322][Science Direct]]
+  
+  A review looking at how and if eDNA monitoring can be used as part of biomonitoring. Both problems and promises
+  with eDNA has to be taken into consideration. The major issue with the approach as it stands is the lack of standardized
+  procedures as well as the lack of knowledge regarding primer biases. This coupled with incomplete reference databases
+  makes it very challenging to convert read counts to species and compare with traditional phenotypically based estimation
+  of species abundance/diversity. For some organisms groups we are closer to having a working standard. For fish species
+  they do for example argue for national efforts to fill in gaps in reference databases and take of efforts to include eDNA
+  data in estimates of biological indexes.
+  
+  An interesting part of the paper discuss the use of machine-learning for estimating indexes from eDNA data. 
+  This could be useful as it would in theory make it possible to use all sequence data without converting reads to species. 
+  Hence instead of relying on incomplete databases and massive loss of data from the read data we would make use of knowledge
+  obtained in certain system and learn about the expected eDNA signals stemming from such a water and algorithmically estimate 
+  indexes based on these.
+
 - Thomsen, P.F., Møller, P.R., Sigsgaard, E.E., Knudsen, S.W.,
-  Jørgensen, O.A. and Willerslev, E., 2016. Environmental DNA from
+  Jørgensen, O.A. and Willerslev, E. (2016). Environmental DNA from
   seawater samples correlate with trawl catches of subarctic, deepwater
   fishes. PloS one, 11(11), p.e0165252
   [[http://journals.plos.org/plosone/article?id%3D10.1371/journal.pone.0165252][PloS one]]
