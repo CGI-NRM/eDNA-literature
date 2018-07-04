@@ -65,3 +65,11 @@
   One of the main conclusion is that the water samples correlates better with netting compared to sediments. In addition
   the detection of DNA from the less common species is more effecient at sample size 5 compared to only 2 samples.
   
+- Hinlo, R., Gleeson, D., Lintermans, M., & Furlan, E. (2017). Methods to maximise recovery of environmental DNA from water 
+  samples. PloS one, 12(6), e0179251
+  [[http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0179251][PLoS ONE]] 
+  
+  This paper compares both the effects of different approaches of extracting DNA from water. They testing the effect of
+  type of filter paper as well as extraction and storage of water after sampling. In short one see differences between types of
+  filters. They also note that filtering samples as soon as possible (the same day) or DNA is lost. Especially freezing seems
+  to negatively effect the concentration of DNA.
